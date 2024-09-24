@@ -1,0 +1,11 @@
+# Directories
+/Lib/
+/Include/
+/Scripts/
+
+# Database
+*.sqlite3
+
+# Python
+*.pyc
+*.cfg
